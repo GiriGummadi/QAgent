@@ -1,0 +1,10 @@
+Flask
+openai
+python-docx
+pytesseract
+Pillow
+pandas
+opencv-python
+PyMuPDF
+ultralytics
+flask-cors
